@@ -8,7 +8,10 @@
 > Or rather, they just need to talk in general.
 
 Notes:
+2 Min Chill: https://www.youtube.com/watch?v=Q2Ulgu7HahI
+
 Conference Website: http://www.curry-on.org/2016/
+
 Recorded Talks: https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w
 
 I prepared 6 slides each for one particularly interesting talk.
