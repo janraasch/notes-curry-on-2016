@@ -78,6 +78,12 @@ section[data-background="./resources/dining.jpg"] {
 	}
 }
 
+section[data-background="./resources/half-life-2-logo.png"] {
+	blockquote {
+		background: rgba(48, 46, 68, 0.5);
+	}
+}
+
 #it-s-the-end-of-the-world-as-we-know-it-and-i-feel-fine {
 	color: $red
 }
@@ -86,4 +92,8 @@ section[data-background="./resources/mozilla-research.jpg"] {
 	ul {
 		background: rgba(48, 46, 68, 0.8);
 	}
+}
+
+section[data-background="./resources/clones.png"] {
+		background: rgba(48, 46, 68, 0.8);
 }
